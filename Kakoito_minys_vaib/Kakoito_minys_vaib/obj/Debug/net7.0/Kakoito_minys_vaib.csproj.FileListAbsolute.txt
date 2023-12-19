@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Kakoito_minys_vaib\Kakoito_minys_vaib\obj\Debug\net7.0\Kakoito_minys_vaib.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kakoito_minys_vaib\Kakoito_minys_vaib\obj\Debug\net7.0\Kakoito_minys_vaib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Kakoito_minys_vaib\Kakoito_minys_vaib\obj\Debug\net7.0\Kakoito_minys_vaib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Kakoito_minys_vaib\Kakoito_minys_vaib\obj\Debug\net7.0\Kakoito_minys_vaib.AssemblyInfo.cs
+C:\Users\user\source\repos\Kakoito_minys_vaib\Kakoito_minys_vaib\obj\Debug\net7.0\Kakoito_minys_vaib.csproj.CoreCompileInputs.cache

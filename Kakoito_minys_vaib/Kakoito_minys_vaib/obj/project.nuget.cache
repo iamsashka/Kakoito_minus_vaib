@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuTGZk3ApMrt5THCn/hJmoCF11j4x4BAzZeMFCJdDViIFxz1KLo447WQaZqXQaeGxnDKCQCy/o4vHhdRIWaExg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Kakoito_minys_vaib\\Kakoito_minys_vaib\\Kakoito_minys_vaib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
