@@ -14,8 +14,9 @@ namespace Kakoito_minys_vaib
             while (!isLoggedIn)
             {
                 Console.Clear();
-                Console.WriteLine("Добро пожаловать в магазин");
-
+                Console.WriteLine("ДОБРО ПОЖАЛОВАТЬ В  МОЙ МАГАЗИН ЦВЕТОВ 'Я УБЬЮСЬ С ЭТИМИ ПРАКТИЧЕСКИМИ', Я СЧИТАЮ ЧТО ТУТ НИКОМУ НЕ ПОНРАВИТСЯ))");
+                Console.WriteLine("_______________________________________________________________________________________________");
+           
                 for (int i = 0; i < 120; i++)
                     Console.Write("-");
 
@@ -31,7 +32,7 @@ namespace Kakoito_minys_vaib
                 while (!isLoggedIn)
                 {
                     int pos = Key.CheckPos(2, 4);
-
+#София Алексеевна пожалейте бедную студентку, можно хотя бы '3' за практос, ну или '4'...
                     if (pos == 2)
                     {
                         Console.SetCursorPosition(9, 2);
