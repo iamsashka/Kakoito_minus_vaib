@@ -2,7 +2,7 @@
 using MyApp;
 using System.Collections;
 
-
+#какой то минус вайб
 namespace MyApp.Kakoito_minys_
 {
     internal class Admin : crudi, IEnumerable<Polzovatel>
@@ -13,7 +13,7 @@ namespace MyApp.Kakoito_minys_
         public string? login;
         public string password;
         public Rolllli Role { get; set; }
-
+#че то я сегодня не в потоке, да и не в ресурсе
         public void AdminPanal(string? login)
         {
             while (true)
@@ -165,7 +165,7 @@ namespace MyApp.Kakoito_minys_
             }
 
         }
-
+#эх...щас бы на море
         public void Create(List<Polzovatel>? users, jsonchiki missing_name)
         {
             throw new NotImplementedException();
@@ -352,7 +352,7 @@ namespace MyApp.Kakoito_minys_
         public void Add(Polzovatel admin)
         {
         }
-
+#хочу лето...и пиццу и автомат по 'с#'
         public IEnumerator GetEnumerator()
         {
             throw new NotImplementedException();
