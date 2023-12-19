@@ -1,5 +1,5 @@
 ﻿using MyApp;
-
+//представляете я художку заканчивала (целых 9 лет потратила)...мне б порисовать
 public class Polzovatel
 {
     public static string? login;
