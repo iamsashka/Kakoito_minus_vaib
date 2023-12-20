@@ -1,5 +1,6 @@
 ﻿using MyApp;
 ﻿using MyApp.Kakoito_minys_
+
 namespace Kakoito_minys_vaib
 {
     internal class Authorization
