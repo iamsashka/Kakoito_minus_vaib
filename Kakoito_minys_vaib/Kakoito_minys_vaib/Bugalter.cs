@@ -46,5 +46,3 @@ public class Bugalter : IBugalter
     }
 }
 
-Bugalter bugalter = new Bugalter("file.json");
-bugalter.Read();
