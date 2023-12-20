@@ -32,7 +32,7 @@ namespace Kakoito_minys_vaib
                 while (!isLoggedIn)
                 {
                     int pos = Key.CheckPos(2, 4);
-#София Алексеевна пожалейте бедную студентку, можно хотя бы '3' за практос, ну или '4'...
+//София Алексеевна пожалейте бедную студентку, можно хотя бы '3' за практос, ну или '4'...
                     if (pos == 2)
                     {
                         Console.SetCursorPosition(9, 2);
