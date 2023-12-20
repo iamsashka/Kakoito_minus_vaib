@@ -81,7 +81,7 @@ namespace Kakoito_minys_vaib
                         {
                             foreach (Admin user in admin)
                             {
-                                if (user.login == login && user.password == password && user.Role == Roli.Admin)
+                                if (user.login == login && user.password == password && user.Role == Rolllli.Admin)
                                 {
                                     isLoggedIn = true;
                                     loggedInUser = user.login;
