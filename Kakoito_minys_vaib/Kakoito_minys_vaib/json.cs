@@ -12,6 +12,8 @@ public static class json
 
     public static List<J>? Deserialize<J>(string path)
     {
+        if(!File.Exists(path))
+            File.Create(path).Close();
         string text = File.ReadAllText(path);
         List<J> result = JsonConvert.DeserializeObject<List<J>>(text);
         return result;
