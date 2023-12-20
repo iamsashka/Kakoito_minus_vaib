@@ -1,19 +1,14 @@
-﻿namespace MyApp
+using Kakoito_minys_vaib;
+
+namespace MyApp
 {
-    internal class Avtorizacia
-    {
-        public void Authoriz()
-        {
-            
-        }
-    }
 
     internal class Program
     {
         static void Main(string[] args)
         {
-            Avtorizacia authorization = new Avtorizacia();
-            authorization.Authoriz();
+            Authorization authorization = new Authorization();
+            authorization.Authorize();
         }
     }
 }
