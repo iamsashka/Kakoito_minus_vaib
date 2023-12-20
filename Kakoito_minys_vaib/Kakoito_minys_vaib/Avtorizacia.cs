@@ -1,8 +1,10 @@
-﻿using MyApp;
-﻿using MyApp.Kakoito_minys_
+using MyApp;
+using MyApp.Kakoito_minys_;
+
 
 namespace Kakoito_minys_vaib
 {
+
     internal class Authorization
     {
         public void Authorize()
@@ -17,13 +19,13 @@ namespace Kakoito_minys_vaib
                 Console.Clear();
                 Console.WriteLine("ДОБРО ПОЖАЛОВАТЬ В  МОЙ МАГАЗИН ЦВЕТОВ 'Я УБЬЮСЬ С ЭТИМИ ПРАКТИЧЕСКИМИ', Я СЧИТАЮ ЧТО ТУТ НИКОМУ НЕ ПОНРАВИТСЯ))");
                 Console.WriteLine("_______________________________________________________________________________________________");
-           
-                for (int i = 0; i < 120; i++)
-                    Console.Write("-");
-
                 Console.WriteLine("  Логин:");
                 Console.WriteLine("  Пароль:");
                 Console.WriteLine("  Авторизоваться");
+                for (int i = 0; i < 20; i++)
+                    Console.Write("-");
+
+
 
                 users = json.Deserialize<Polzovatel>("path_to_json_file");
 
@@ -86,7 +88,7 @@ namespace Kakoito_minys_vaib
                                 {
                                     isLoggedIn = true;
                                     loggedInUser = user.login;
-                                    admin.AdminPanel(login);
+                                     user.AdminPanal(login);
                                     break;
                                 }
                             }
